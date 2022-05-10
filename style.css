@@ -1,0 +1,205 @@
+.body-2{
+  background-color: green;
+
+}
+
+body{
+    background-color: pink;
+}
+
+.header{
+    position: static;
+    display: inline;
+    width: 40px;
+    height: 60px;
+    
+}
+
+.head-font h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:salmon;
+
+}
+
+
+
+
+
+.return a:link, a:visited {
+  position: relative;
+  background-color: royalblue;
+  color: white;
+  padding: 30px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  left: 100px;
+  top: 300px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+
+
+  }
+
+  .return a:hover, a:active {
+    background-color: red;
+  }
+ 
+
+  
+
+  .central{
+    position: absolute;
+    width: 231px;
+    height: 48px;
+    left: 98px;
+    top: 121px;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+  }
+
+  .chelsea{
+    position: absolute;
+    width: 231px;
+    height: 62px;
+    left: 98px;
+    top: 264px;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+  }
+
+  .wsq{
+    position: absolute;
+    width: 231px;
+    height: 48px;
+    left: 98px;
+    top: 409px;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+  }
+
+  .midtown{
+    position: absolute;
+    width: 231px;
+    height: 62px;
+    left: 98px;
+    top: 550px;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+  }
+
+  .downtown{
+    position: absolute;
+    width: 206px;
+    height: 62px;
+    left: 111px;
+    top: 691px;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+    
+  }
+
+  .head-font h1{
+    position: absolute;
+    width: 387px;
+    height: 157px;
+    left: 20px;
+    top: 30xpx;  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 73px;
+    letter-spacing: -0.05em;
+    color: #000000;
+
+    
+
+  }
+  
+  .listitem ul li a{
+    color: black;
+    text-decoration: none;
+
+  }
+
+  .click-here a:link, a:visited {
+    position: relative;
+    background-color: royalblue;
+    color: white;
+    padding: 30px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    left: 100px;
+    top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  .click-here a:hover, a:active {
+    background-color: red;
+  }
+
+
+
+  @media screen and (min-width: 300px) {
+
+    body{
+        position: absolute;
+        width: 428px;
+        height: 926px;
+        background: pink;
+
+    }
+
+    .intro {
+        transition-duration: 0.4s;
+        position: absolute;
+        width: 327px;
+        height: 98px;
+        left: 15px;
+        top: 314px;
+        background: #FF6666;
+
+
+  }
+}
+
+     
+     
+
+     
+     
+     
+     
+    
